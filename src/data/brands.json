@@ -1,0 +1,236 @@
+{
+    "brands": [
+      {
+        "name": "cereal1",
+        "product": "Cereal",
+        "category": "comida",
+        "sales": {
+          "jan": 100,
+          "feb": 150,
+          "mar": 120,
+          "apr": 200
+        }
+      },
+      {
+        "name": "cereal2",
+        "product": "Cereal",
+        "category": "comida",
+        "sales": {
+          "jan": 80,
+          "feb": 110,
+          "mar": 90,
+          "apr": 120
+        }
+      },
+      {
+        "name": "cereal3",
+        "product": "Cereal",
+        "category": "comida",
+        "sales": {
+          "jan": 70,
+          "feb": 100,
+          "mar": 80,
+          "apr": 150
+        }
+      },
+      {
+        "name": "leite1",
+        "product": "Leite",
+        "category": "comida",
+        "sales": {
+          "jan": 200,
+          "feb": 180,
+          "mar": 220,
+          "apr": 250
+        }
+      },
+      {
+        "name": "leite2",
+        "product": "Leite",
+        "category": "comida",
+        "sales": {
+          "jan": 150,
+          "feb": 140,
+          "mar": 160,
+          "apr": 180
+        }
+      },
+      {
+        "name": "leite3",
+        "product": "Leite",
+        "category": "comida",
+        "sales": {
+          "jan": 120,
+          "feb": 110,
+          "mar": 130,
+          "apr": 140
+        }
+      },
+      {
+        "name": "café1",
+        "product": "Café",
+        "category": "comida",
+        "sales": {
+          "jan": 300,
+          "feb": 320,
+          "mar": 290,
+          "apr": 310
+        }
+      },
+      {
+        "name": "café2",
+        "product": "Café",
+        "category": "comida",
+        "sales": {
+          "jan": 280,
+          "feb": 270,
+          "mar": 300,
+          "apr": 290
+        }
+      },
+      {
+        "name": "café3",
+        "product": "Café",
+        "category": "comida",
+        "sales": {
+          "jan": 250,
+          "feb": 260,
+          "mar": 240,
+          "apr": 280
+        }
+      },
+      {
+        "name": "ferro1",
+        "product": "Ferro",
+        "category": "commodity",
+        "sales": {
+          "jan": 500,
+          "feb": 520,
+          "mar": 480,
+          "apr": 550
+        }
+      },
+      {
+        "name": "ferro2",
+        "product": "Ferro",
+        "category": "commodity",
+        "sales": {
+          "jan": 480,
+          "feb": 460,
+          "mar": 500,
+          "apr": 510
+        }
+      },
+      {
+        "name": "ferro3",
+        "product": "Ferro",
+        "category": "commodity",
+        "sales": {
+          "jan": 450,
+          "feb": 470,
+          "mar": 440,
+          "apr": 490
+        }
+      },
+      {
+        "name": "petróleo1",
+        "product": "Petróleo",
+        "category": "commodity",
+        "sales": {
+          "jan": 800,
+          "feb": 820,
+          "mar": 780,
+          "apr": 850
+        }
+      },
+      {
+        "name": "petróleo2",
+        "product": "Petróleo",
+        "category": "commodity",
+        "sales": {
+          "jan": 780,
+          "feb": 760,
+          "mar": 800,
+          "apr": 810
+        }
+      },
+      {
+        "name": "petróleo3",
+        "product": "Petróleo",
+        "category": "commodity",
+        "sales": {
+          "jan": 750,
+          "feb": 770,
+          "mar": 740,
+          "apr": 790
+        }
+      },
+      {
+        "name": "celular1",
+        "product": "Celular",
+        "category": "eletrônico",
+        "sales": {
+          "jan": 1000,
+          "feb": 980,
+          "mar": 1020,
+          "apr": 950
+        }
+      },
+      {
+        "name": "celular2",
+        "product": "Celular",
+        "category": "eletrônico",
+        "sales": {
+          "jan": 950,
+          "feb": 930,
+          "mar": 980,
+          "apr": 970
+        }
+      },
+      {
+        "name": "celular3",
+        "product": "Celular",
+        "category": "eletrônico",
+        "sales": {
+          "jan": 900,
+          "feb": 920,
+          "mar": 890,
+          "apr": 940
+        }
+      },
+      {
+        "name": "computador1",
+        "product": "Computador",
+        "category": "eletrônico",
+        "sales": {
+          "jan": 1500,
+          "feb": 1550,
+          "mar": 1480,
+          "apr": 1600
+        }
+      },
+      {
+        "name": "computador2",
+        "product": "Computador",
+        "category": "eletrônico",
+        "sales": {
+          "jan": 1450,
+          "feb": 1400,
+          "mar": 1500,
+          "apr": 1520
+        }
+      },
+      {
+        "name": "computador3",
+        "product": "Computador",
+        "category": "eletrônico",
+        "sales": {
+          "jan": 1400,
+          "feb": 1350,
+          "mar": 1420,
+          "apr": 1480
+        }
+      }
+    ]
+}
+  
