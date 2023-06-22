@@ -1,0 +1,41 @@
+.menu-icon {
+    width: 4vw;
+    height: 4vw;
+}
+
+.offcanvas-body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    row-gap: 4vh;
+}
+
+.offcanvas-body > * {
+    width: 40%;
+    height: 5vh;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1rem !important;
+    font-weight: 400 !important;
+    padding: 0 !important;
+}
+
+.menu-badge {
+    background-color: grey;
+    color: white;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 1vw;
+}
+
+.bullet {
+    display: inline-block;
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background-color: red;
+  }
