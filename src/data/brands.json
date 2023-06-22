@@ -166,6 +166,39 @@
         }
       },
       {
+        "name": "soja1",
+        "product": "Soja",
+        "category": "Commodity",
+        "sales": {
+          "jan": 800,
+          "feb": 820,
+          "mar": 780,
+          "apr": 850
+        }
+      },
+      {
+        "name": "soja2",
+        "product": "Soja",
+        "category": "Commodity",
+        "sales": {
+          "jan": 780,
+          "feb": 760,
+          "mar": 800,
+          "apr": 810
+        }
+      },
+      {
+        "name": "soja3",
+        "product": "Soja",
+        "category": "Commodity",
+        "sales": {
+          "jan": 750,
+          "feb": 770,
+          "mar": 740,
+          "apr": 790
+        }
+      },
+      {
         "name": "celular1",
         "product": "Celular",
         "category": "Eletrônico",
@@ -223,6 +256,39 @@
       {
         "name": "computador3",
         "product": "Computador",
+        "category": "Eletrônico",
+        "sales": {
+          "jan": 1400,
+          "feb": 1350,
+          "mar": 1420,
+          "apr": 1480
+        }
+      },
+      {
+        "name": "TV1",
+        "product": "TV",
+        "category": "Eletrônico",
+        "sales": {
+          "jan": 1500,
+          "feb": 1550,
+          "mar": 1480,
+          "apr": 1600
+        }
+      },
+      {
+        "name": "TV2",
+        "product": "TV",
+        "category": "Eletrônico",
+        "sales": {
+          "jan": 1450,
+          "feb": 1400,
+          "mar": 1500,
+          "apr": 1520
+        }
+      },
+      {
+        "name": "TV3",
+        "product": "TV",
         "category": "Eletrônico",
         "sales": {
           "jan": 1400,
