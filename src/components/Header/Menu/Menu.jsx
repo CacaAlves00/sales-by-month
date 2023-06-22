@@ -23,7 +23,7 @@ function Menu() {
         </Offcanvas.Header>
         <Offcanvas.Body className='offcanvas-body'>
         <div className='menu-badge'>User name <span className='bullet'></span></div>
-        <Button variant='primary' onClick={() => alert('Sales report')}>Sales report</Button>
+        <Button variant='primary' onClick={() => alert('Sales report (fake button)')}>Sales report</Button>
         </Offcanvas.Body>
       </Offcanvas>
     </>
