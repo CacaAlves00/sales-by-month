@@ -1,3 +1,5 @@
+import data from './../data/brands.json'
+
 function extractBrandsByProduct(product) {
     const brands = []
     for (const brand of data.brands) {
@@ -5,6 +7,7 @@ function extractBrandsByProduct(product) {
             brands.push(brand.name)
         }
     }
+
     return brands
 }
 

@@ -1,3 +1,5 @@
+import data from './../data/brands.json'
+
 function extractAllCategories() {
   const categories = []
   for (const brand of data.brands) {

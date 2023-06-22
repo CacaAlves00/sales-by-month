@@ -3,7 +3,7 @@
       {
         "name": "cereal1",
         "product": "Cereal",
-        "category": "comida",
+        "category": "Comida",
         "sales": {
           "jan": 100,
           "feb": 150,
@@ -14,7 +14,7 @@
       {
         "name": "cereal2",
         "product": "Cereal",
-        "category": "comida",
+        "category": "Comida",
         "sales": {
           "jan": 80,
           "feb": 110,
@@ -25,7 +25,7 @@
       {
         "name": "cereal3",
         "product": "Cereal",
-        "category": "comida",
+        "category": "Comida",
         "sales": {
           "jan": 70,
           "feb": 100,
@@ -36,7 +36,7 @@
       {
         "name": "leite1",
         "product": "Leite",
-        "category": "comida",
+        "category": "Comida",
         "sales": {
           "jan": 200,
           "feb": 180,
@@ -47,7 +47,7 @@
       {
         "name": "leite2",
         "product": "Leite",
-        "category": "comida",
+        "category": "Comida",
         "sales": {
           "jan": 150,
           "feb": 140,
@@ -58,7 +58,7 @@
       {
         "name": "leite3",
         "product": "Leite",
-        "category": "comida",
+        "category": "Comida",
         "sales": {
           "jan": 120,
           "feb": 110,
@@ -69,7 +69,7 @@
       {
         "name": "café1",
         "product": "Café",
-        "category": "comida",
+        "category": "Comida",
         "sales": {
           "jan": 300,
           "feb": 320,
@@ -80,7 +80,7 @@
       {
         "name": "café2",
         "product": "Café",
-        "category": "comida",
+        "category": "Comida",
         "sales": {
           "jan": 280,
           "feb": 270,
@@ -91,7 +91,7 @@
       {
         "name": "café3",
         "product": "Café",
-        "category": "comida",
+        "category": "Comida",
         "sales": {
           "jan": 250,
           "feb": 260,
@@ -102,7 +102,7 @@
       {
         "name": "ferro1",
         "product": "Ferro",
-        "category": "commodity",
+        "category": "Commodity",
         "sales": {
           "jan": 500,
           "feb": 520,
@@ -113,7 +113,7 @@
       {
         "name": "ferro2",
         "product": "Ferro",
-        "category": "commodity",
+        "category": "Commodity",
         "sales": {
           "jan": 480,
           "feb": 460,
@@ -124,7 +124,7 @@
       {
         "name": "ferro3",
         "product": "Ferro",
-        "category": "commodity",
+        "category": "Commodity",
         "sales": {
           "jan": 450,
           "feb": 470,
@@ -135,7 +135,7 @@
       {
         "name": "petróleo1",
         "product": "Petróleo",
-        "category": "commodity",
+        "category": "Commodity",
         "sales": {
           "jan": 800,
           "feb": 820,
@@ -146,7 +146,7 @@
       {
         "name": "petróleo2",
         "product": "Petróleo",
-        "category": "commodity",
+        "category": "Commodity",
         "sales": {
           "jan": 780,
           "feb": 760,
@@ -157,7 +157,7 @@
       {
         "name": "petróleo3",
         "product": "Petróleo",
-        "category": "commodity",
+        "category": "Commodity",
         "sales": {
           "jan": 750,
           "feb": 770,
@@ -168,7 +168,7 @@
       {
         "name": "celular1",
         "product": "Celular",
-        "category": "eletrônico",
+        "category": "Eletrônico",
         "sales": {
           "jan": 1000,
           "feb": 980,
@@ -179,7 +179,7 @@
       {
         "name": "celular2",
         "product": "Celular",
-        "category": "eletrônico",
+        "category": "Eletrônico",
         "sales": {
           "jan": 950,
           "feb": 930,
@@ -190,7 +190,7 @@
       {
         "name": "celular3",
         "product": "Celular",
-        "category": "eletrônico",
+        "category": "Eletrônico",
         "sales": {
           "jan": 900,
           "feb": 920,
@@ -201,7 +201,7 @@
       {
         "name": "computador1",
         "product": "Computador",
-        "category": "eletrônico",
+        "category": "Eletrônico",
         "sales": {
           "jan": 1500,
           "feb": 1550,
@@ -212,7 +212,7 @@
       {
         "name": "computador2",
         "product": "Computador",
-        "category": "eletrônico",
+        "category": "Eletrônico",
         "sales": {
           "jan": 1450,
           "feb": 1400,
@@ -223,7 +223,7 @@
       {
         "name": "computador3",
         "product": "Computador",
-        "category": "eletrônico",
+        "category": "Eletrônico",
         "sales": {
           "jan": 1400,
           "feb": 1350,

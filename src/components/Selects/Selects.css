@@ -1,0 +1,8 @@
+section.selects {
+    display: flex;
+    justify-content: space-between;
+}
+
+section.selects select {
+    width: 30%;
+}
